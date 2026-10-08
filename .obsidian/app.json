@@ -1,0 +1,8 @@
+{
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "docs",
+  "attachmentFolderPath": "./res"
+}
