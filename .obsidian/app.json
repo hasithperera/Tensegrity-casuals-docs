@@ -4,5 +4,6 @@
   "showUnsupportedFiles": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "docs",
-  "attachmentFolderPath": "./res"
+  "attachmentFolderPath": "./res",
+  "newLinkFormat": "relative"
 }
