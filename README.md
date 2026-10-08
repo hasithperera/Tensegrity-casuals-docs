@@ -16,3 +16,15 @@ Documentation for the Clemson Tensagrity challange team **Casuals**
 - Keep all binary files inside `res`
 - Use basic Markdown and LaTeX syntax as needed
 - Open the `source control view` for easy git actions
+
+
+## To-do task list (auto-populated)
+
+```tasks
+# Only tasks that are not done, that is, which begin like this (but without the quotes):
+#   '- [ ] ' or
+#   '* [ ] ' or
+#   '1. [ ] '
+# Indented tasks are supported, but only single-line tasks.
+not done
+````

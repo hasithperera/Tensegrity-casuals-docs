@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Basic challenge info and updates.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic challenge info and updates"
+              "title": "README"
             }
           }
         ]
@@ -201,9 +201,9 @@
   },
   "active": "c8a10943f9d9d3d2",
   "lastOpenFiles": [
+    "docs/Basic challenge info and updates.md",
     "README.md",
     "docs/res/Tensegrity_workshop_1.pdf",
-    "docs/Basic challenge info and updates.md",
     "docs/res",
     "res",
     "docs"

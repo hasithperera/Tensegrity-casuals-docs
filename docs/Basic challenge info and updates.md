@@ -16,3 +16,5 @@
 	- added 2 other members from the radio club
 	- Meeting time link: https://www.when2meet.com/?39104438-g3Ddf
 	- David made a teams chat for CAD files
+- [ ] BOM submission 📅 2026-10-20
+- [x] set up a zoom link 📅 2026-10-08 ✅ 2026-10-08
