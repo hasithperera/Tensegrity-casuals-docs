@@ -9,7 +9,7 @@
 ---
 ## Workshop 1
 
-- Slides ![here](Tensegrity_workshop_1.pdf)
+- Slides ![here](./res/Tensegrity_workshop_1.pdf)
 - Shared notes real time: https://pad.education/p/casulas
 	- use this to edit and take more notes every meeting
 - We made a 3 person team
