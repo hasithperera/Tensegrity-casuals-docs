@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "docs/Basic challenge info and updates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Basic challenge info and updates"
+            }
+          },
+          {
+            "id": "622ecaf77ee36540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/team meetings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "team meetings"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#David",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +94,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,13 +212,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "c8a10943f9d9d3d2",
+  "active": "622ecaf77ee36540",
   "lastOpenFiles": [
-    "docs/Basic challenge info and updates.md",
+    "docs/team meetings.html",
+    "docs/res/Pasted image 20261009191118.png",
     "README.md",
+    "docs/team meetings.md",
+    "docs/Basic challenge info and updates.md",
     "docs/res/Tensegrity_workshop_1.pdf",
     "docs/res",
     "res",
