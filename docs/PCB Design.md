@@ -13,6 +13,8 @@
 	- J1 J2: these are labeled as electromagnets. drive high current but what for ?
 		- I don't think this is needed for this project
 - Paper: https://ieeexplore.ieee.org/abstract/document/11474858
+- VDD and V_Bat are connected through the current sense module
+	- this is why they are shorted if no module is used
 
 ---
 ## BOM per node:
