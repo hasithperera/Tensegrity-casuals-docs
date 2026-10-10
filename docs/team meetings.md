@@ -7,10 +7,10 @@
 - [ ] BOM - translation to our case (ASAP)
 	- Mechanical #David #Jaylin
 	- Electronics #Hasith 
-- [ ] Schedule a meeting with Lu: 
-	- Not Thursday afternoon - email her about a meeting
-	- Talk about the high-level plan
-	- Controller design - external controller 
+- [ ] Schedule a meeting with Lu: #Hasith
+	- Thursday afternoon - email her about a meeting
+	- [x] Talk about the high-level plan ✅ 2026-10-09
+	- [x] Controller design - external controller ✅ 2026-10-09
 ---
 # PCB dimensions from Yale
 

@@ -6,6 +6,7 @@
       {
         "id": "d6eebf03eae7c986",
         "type": "tabs",
+        "dimension": 76.95852534562212,
         "children": [
           {
             "id": "c8a10943f9d9d3d2",
@@ -41,6 +42,7 @@
       {
         "id": "aef5d40916c66c23",
         "type": "tabs",
+        "dimension": 23.04147465437788,
         "children": [
           {
             "id": "0f044ce51e1712cc",
@@ -231,12 +233,12 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "0f044ce51e1712cc",
+  "active": "622ecaf77ee36540",
   "lastOpenFiles": [
-    "docs/team meetings.html",
-    "docs/res/Pasted image 20261009191118.png",
     "README.md",
     "docs/team meetings.md",
+    "docs/team meetings.html",
+    "docs/res/Pasted image 20261009191118.png",
     "docs/Basic challenge info and updates.md",
     "docs/res/Tensegrity_workshop_1.pdf",
     "docs/res",
