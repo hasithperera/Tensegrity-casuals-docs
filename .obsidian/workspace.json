@@ -37,6 +37,22 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "aef5d40916c66c23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f044ce51e1712cc",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Deck Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#David",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,8 +110,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,7 +231,7 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "622ecaf77ee36540",
+  "active": "0f044ce51e1712cc",
   "lastOpenFiles": [
     "docs/team meetings.html",
     "docs/res/Pasted image 20261009191118.png",
