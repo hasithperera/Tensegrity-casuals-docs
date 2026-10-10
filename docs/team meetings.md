@@ -3,6 +3,8 @@
 - [ ] Document the model - pull some dimensions📅 2026-10-16 #David
 - [ ] Make a scale-down mock model 📅 ⏳ 2026-10-16 #Justin
 - [ ] Look into the PCB - remake it 📅 2026-10-16 #Hasith
+	- [x] Completed the PCB review ✅ 2026-10-09
+	- [ ] KiCad redesign📅 2026-10-12 
 - [ ] Potential 2nd design: #Garren
 - [ ] BOM - translation to our case (ASAP)
 	- Mechanical #David #Jaylin
@@ -52,3 +54,4 @@
 - What's the use of the IMU?
 	- obviously orientation, but that's kind of complicated
 	- I think Yale folks had a forward model and a state estimator running in the background to predict the moves
+- Electromagnet?
