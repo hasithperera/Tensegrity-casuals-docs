@@ -3,15 +3,14 @@
 - [x] Document the model - pull some dimensions #David 📅 2026-10-16 ✅ 2026-10-15
 	- 50-70% 
 - [x] Make a scale-down mock model 📅 #Justin ⏳ 2026-10-16 ✅ 2026-10-15
-- [ ] Look into the PCB - remake it 📅 2026-10-16 #Hasith
+- [x] Look into the PCB - remake it #Hasith 📅 2026-10-16 ✅ 2026-10-19
 	- [x] Completed the PCB review ✅ 2026-10-09
 	- [x] KiCad redesign 📅 2026-10-12 ✅ 2026-10-16
-- [ ] Potential 2nd design: #Garren
-- [ ] BOM - translation to our case (ASAP)
+- [x] BOM - translation to our case (ASAP) ✅ 2026-10-19
 	- Mechanical #David #Jaylin
 	- Electronics #Hasith 
 - [x] Schedule a meeting with Lu: #Hasith ✅ 2026-10-15
-	- Thursday afternoon - email her about a meeting
+	- [x] Thursday afternoon - email her about a meeting ✅ 2026-10-19
 	- [x] Talk about the high-level plan ✅ 2026-10-09
 	- [x] Controller design - external controller ✅ 2026-10-09
 ---
@@ -98,3 +97,18 @@
 		- Electronics need to be figured out to control 12 motors (this is also probably not easy to fit in that structure)
 	- https://www.youtube.com/watch?v=YznAy63wcdw : Possible control system and gate
 		- there are apparently a lot of implementations out there
+---
+# Agenda - Team meeting 3
+
+Meeting time Friday 7 - 9 PM
+
+-  Mostly sharing what we learn from tomorrow's meeting, and if they question the cost or whatever, that would go in there
+- [ ] Get you all setup with Obsidian and git (get you used to that) #Hasith 
+- Programming basics
+- Because we have 3 struts, we can write code for it simultaneously. (I am sure I can get it done by myself but getting you guys some skills may help in case I get busy) 
+	- [ ] Try to write code with AI ? (I don't like this or do this but you all can try it and see which version does better) 
+- [ ] Justin: tell us how's the progress on the 3D printing #Justin 
+	- [ ] Model with ratchet: can you send me the files (or put them in git, with a README)
+	- [ ] Endcap: can we redesign this to print with the resin printer (for some deformable rubber-like material)
+- [ ] ROS - can someone learn about this and find a tutorial to follow
+---
