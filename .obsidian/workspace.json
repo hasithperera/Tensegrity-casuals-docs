@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "e364f469c9ea43d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c431cab1158961c4",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Deck Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 619.74609375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +216,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "032b9546abeceafd",
+  "active": "d531fcc783a9b96e",
   "lastOpenFiles": [
+    "docs/Team meetings and updates.html",
     "docs/PCB Design.md",
     "docs/Team meetings and updates.md",
     "docs/Basic challenge info and updates.md",
