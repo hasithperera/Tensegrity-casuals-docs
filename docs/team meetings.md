@@ -5,7 +5,7 @@
 - [x] Make a scale-down mock model 📅 #Justin ⏳ 2026-10-16 ✅ 2026-10-15
 - [ ] Look into the PCB - remake it 📅 2026-10-16 #Hasith
 	- [x] Completed the PCB review ✅ 2026-10-09
-	- [ ] KiCad redesign📅 2026-10-12 
+	- [x] KiCad redesign 📅 2026-10-12 ✅ 2026-10-16
 - [ ] Potential 2nd design: #Garren
 - [ ] BOM - translation to our case (ASAP)
 	- Mechanical #David #Jaylin
