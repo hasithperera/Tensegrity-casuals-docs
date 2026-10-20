@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/PCB Design.md",
+                "file": "docs/Team meetings and updates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PCB Design"
+              "title": "Team meetings and updates"
             }
           }
         ]
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 467.13671875
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,12 +200,13 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "032b9546abeceafd",
+  "active": "58467bfb27e392d3",
   "lastOpenFiles": [
-    "docs/Team meetings and updates.md",
-    "docs/Team meetings and updates.html",
-    "docs/PCB Design.md",
     "docs/Basic challenge info and updates.md",
+    "docs/PCB Design.md",
+    "docs/Team meetings and updates.md",
+    "docs/res/Tensagrity - Casuals BOM.pdf",
+    "docs/Team meetings and updates.html",
     "README.md",
     "pcb/main-controller/~main-controller.kicad_sch.lck",
     "pcb/main-controller/~main-controller.kicad_pro.lck",

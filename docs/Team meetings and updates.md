@@ -98,6 +98,9 @@
 	- https://www.youtube.com/watch?v=YznAy63wcdw : Possible control system and gate
 		- there are apparently a lot of implementations out there
 ---
+## BOM and Proposal ![here](res/Tensagrity%20-%20Casuals%20BOM.pdf)
+
+---
 # Agenda - Team meeting 3
 
 ## Meeting time Friday 7 - 9 PM
@@ -112,5 +115,5 @@
 - [ ] Justin: tell us how's the progress on the 3D printing #Justin 
 	- [ ] Model with ratchet: can you send me the files (or put them in git, with a README)
 	- [ ] Endcap: can we redesign this to print with the resin printer (for some deformable rubber-like material)
-- [ ] ROS - can someone learn about this and find a tutorial to follow
+- [ ] ROS - can someone learn about this and find a tutorial to follow #name
 ---

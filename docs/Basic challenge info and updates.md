@@ -7,7 +7,7 @@
 - More info to come
 
 ---
-## Workshop 1
+# Workshop 1
 
 - Slides ![here](./res/Tensegrity_workshop_1.pdf)
 - Shared notes real time: https://pad.education/p/casulas
@@ -16,5 +16,10 @@
 	- added 2 other members from the radio club
 	- Meeting time link: https://www.when2meet.com/?39104438-g3Ddf
 	- David made a teams chat for CAD files
-- [ ] BOM submission 📅 2026-10-20
-- [x] set up a zoom link 📅 2026-10-08 ✅ 2026-10-08
+- [x] BOM submission 📅 2026-10-20 ✅ 2026-10-19 #Hasith
+- [x] set up a zoom link 📅 2026-10-08 ✅ 2026-10-08 #Hasith 
+- [x] Order PCB email ✅ 2026-10-16 #Hasith 
+
+---
+# Workshop 2 - 20/10/2026
+
