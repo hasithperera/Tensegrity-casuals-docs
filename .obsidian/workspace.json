@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Team meetings and updates.md",
+                "file": "docs/PCB Design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Team meetings and updates"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e364f469c9ea43d3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c431cab1158961c4",
-            "type": "leaf",
-            "state": {
-              "type": "marp-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Deck Preview"
+              "title": "PCB Design"
             }
           }
         ]
@@ -201,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 619.74609375
+    "width": 467.13671875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,11 +200,11 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "d531fcc783a9b96e",
+  "active": "032b9546abeceafd",
   "lastOpenFiles": [
+    "docs/Team meetings and updates.md",
     "docs/Team meetings and updates.html",
     "docs/PCB Design.md",
-    "docs/Team meetings and updates.md",
     "docs/Basic challenge info and updates.md",
     "README.md",
     "pcb/main-controller/~main-controller.kicad_sch.lck",

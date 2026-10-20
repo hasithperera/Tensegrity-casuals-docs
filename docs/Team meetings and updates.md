@@ -100,13 +100,15 @@
 ---
 # Agenda - Team meeting 3
 
-Meeting time Friday 7 - 9 PM
+## Meeting time Friday 7 - 9 PM
 
 -  Mostly sharing what we learn from tomorrow's meeting, and if they question the cost or whatever, that would go in there
 - [ ] Get you all setup with Obsidian and git (get you used to that) #Hasith 
 - Programming basics
 - Because we have 3 struts, we can write code for it simultaneously. (I am sure I can get it done by myself but getting you guys some skills may help in case I get busy) 
 	- [ ] Try to write code with AI ? (I don't like this or do this but you all can try it and see which version does better) 
+---
+# todo - Mechanical 
 - [ ] Justin: tell us how's the progress on the 3D printing #Justin 
 	- [ ] Model with ratchet: can you send me the files (or put them in git, with a README)
 	- [ ] Endcap: can we redesign this to print with the resin printer (for some deformable rubber-like material)
