@@ -75,9 +75,9 @@
 
 # Meeting with Luyang
 
-- Force feedback is not needed apparently; it never worked, it seems
+- Force feedback is not needed, apparently; it never worked, it seems
 - External controller is fine if we do Yale
-- Yale design: I think it's the fun way to do it (controller wise)
+- Yale design: I think it's the fun way to do it (controller-wise)
 - She showed the central controller design 
 	- This has carbon fiber and springs already to take that fall as opposed to Yale will have to do it on the run time
 	- From a comp point of view: central + bar design is the way to meet their criteria 

@@ -23,3 +23,8 @@
 ---
 # Workshop 2 - 20/10/2026
 
+- Nothing too important.
+- Scoring matric 
+![](res/Pasted%20image%2020261021135912.png)
+
+---

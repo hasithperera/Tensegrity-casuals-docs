@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a09201cd500fb5af",
+        "id": "e7f3bf87aff72983",
         "type": "tabs",
         "children": [
           {
-            "id": "032b9546abeceafd",
+            "id": "97b54bfb4b09877b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Team meetings and updates.md",
+                "file": "docs/Basic challenge info and updates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Team meetings and updates"
+              "title": "Basic challenge info and updates"
+            }
+          },
+          {
+            "id": "d89d8a3f3362b4b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "models/solidworks/Readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Readme"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.46484375
   },
   "right": {
     "id": "397f74e5d00eb6e5",
@@ -200,26 +215,34 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "58467bfb27e392d3",
+  "active": "d89d8a3f3362b4b8",
   "lastOpenFiles": [
+    "models/Readme.md",
+    "models/solidworks/Readme.md",
+    "models/res/Strut Body CAD.png",
+    "models/res/Ratchet Knob CAD.png",
+    "models/res",
     "docs/Basic challenge info and updates.md",
-    "docs/PCB Design.md",
+    "models/solidworks/Ratchet Knob Spool.SLDPRT",
+    "models/solidworks/One Piece Strut Body.SLDPRT",
+    "models/solidworks",
+    "models/Ratchet Knob Spool.EPRT",
+    "models/One Piece Strut Body.EPRT",
+    "models/Ratchet Knob Spool.SLDPRT",
+    "models/One Piece Strut Body.SLDPRT",
+    "models/Ratchet Knob Spool.STL",
+    "models/One Piece Strut Body.STL",
+    "Strut Body CAD.png",
+    "Ratchet Knob CAD.png",
+    "docs/res/Pasted image 20261021135912.png",
     "docs/Team meetings and updates.md",
-    "docs/res/Tensagrity - Casuals BOM.pdf",
-    "docs/Team meetings and updates.html",
+    "docs/Slides - on the go.md",
+    "docs/PCB Design.md",
     "README.md",
-    "pcb/main-controller/~main-controller.kicad_sch.lck",
-    "pcb/main-controller/~main-controller.kicad_pro.lck",
-    "docs/res/Pasted image 20261015161732.png",
-    "docs/res/Pasted image 20261014231026.png",
-    "docs/res/Pasted image 20261014223857.png",
-    "docs/res/Pasted image 20261009223906.png",
-    "docs/res/Pasted image 20261009222900.png",
-    "docs/team meetings.html",
-    "docs/res/Pasted image 20261009191118.png",
-    "docs/res/Tensegrity_workshop_1.pdf",
-    "docs/res",
-    "res",
-    "docs"
+    "docs/res/Pasted image 20261020184109.png",
+    "docs/res/Pasted image 20261020182541.png",
+    "docs/res/Pasted image 20261020182445.png",
+    "docs/res/Pasted image 20261020182350.png",
+    "docs/res/Pasted image 20261020182320.png"
   ]
 }

@@ -23,5 +23,3 @@
 - Current sensor
 - Connectors
 ---
-## New design notes
-
