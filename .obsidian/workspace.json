@@ -27,16 +27,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "models/solidworks/Readme.md",
+                "file": "docs/Slides - on the go workshop 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Slides - on the go workshop 2"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "82d70a9c883cbe2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbc5a0301a5d3133",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Deck Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 475.8671875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,6 +233,7 @@
   },
   "active": "d89d8a3f3362b4b8",
   "lastOpenFiles": [
+    "docs/PCB Design.md",
     "models/Readme.md",
     "models/solidworks/Readme.md",
     "models/res/Strut Body CAD.png",
@@ -236,8 +253,7 @@
     "Ratchet Knob CAD.png",
     "docs/res/Pasted image 20261021135912.png",
     "docs/Team meetings and updates.md",
-    "docs/Slides - on the go.md",
-    "docs/PCB Design.md",
+    "docs/Slides - on the go workshop 2.md",
     "README.md",
     "docs/res/Pasted image 20261020184109.png",
     "docs/res/Pasted image 20261020182541.png",

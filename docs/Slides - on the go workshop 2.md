@@ -15,7 +15,7 @@
 	- Remove force feedback, but maintain the form factor
 	- Add the current module 
 ---
-![](res/Pasted%20image%2020261020184109.png)
+![bg contain](res/Pasted%20image%2020261020184109.png)
 
 ---
 ![bg contain](res/Pasted%20image%2020261020182220.png)
