@@ -3,7 +3,20 @@
 
 Designed by Justin H.
 
-Details or any other info go here. print settings etc. Please update
+Ratchet knob print settings:
+Filament: PLA
+Layer Height: 0.15 mm STRUCTURAL
+Infill: 100%
+Supports (Optional) : Everywhere - Organic
+Print on flat face of turning knob side
+
+Strut body print settings:
+Filament: PLA
+Layer Height: 0.20 mm STRUCTURAL
+Infill: 25%
+Supports (Optional) : Everywhere - Organic 
+Brim (Optional): 5 mm
+Print upright on flat face of one end
 
 ## Current design outputs
 
