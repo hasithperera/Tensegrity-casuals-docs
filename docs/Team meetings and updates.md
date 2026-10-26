@@ -118,7 +118,7 @@
 ---
 # todo - Mechanical 
 - [ ] Justin: tell us how's the progress on the 3D printing #Justin 
-	- [ ] Model with ratchet: can you send me the files (or put them in git, with a README)
+	- [x] Model with ratchet: can you send me the files (or put them in git, with a README) ✅ 2026-10-26
 	- [ ] Endcap: can we redesign this to print with the resin printer (for some deformable rubber-like material)
 - [ ] ROS - can someone learn about this and find a tutorial to follow #name
 ---

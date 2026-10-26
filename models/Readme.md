@@ -22,11 +22,11 @@ Designed by Justin H.
 
 ## Ratchet
 
-![347](res/Ratchet%20Knob%20CAD.png)
+![264](res/Ratchet%20Knob%20CAD.png)
 
 ## Strut body
 
-![349](res/Strut%20Body%20CAD.png)
+![260](res/Strut%20Body%20CAD.png)
 
 ---
 ## v2 - Changes

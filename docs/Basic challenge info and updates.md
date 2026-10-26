@@ -27,4 +27,7 @@
 - Scoring matric 
 ![](res/Pasted%20image%2020261021135912.png)
 
+- Wu emails a new rubric with more constraints with penalties for going over $500.
+	- This makes us rethink our current design 
+	- How can we cut costs 
 ---

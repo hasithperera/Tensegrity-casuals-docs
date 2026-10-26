@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "models/Readme.md",
+                "file": "docs/zoom/Meeting 1 - AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Readme"
+              "title": "Meeting 1 - AI"
             }
           }
         ]
@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.8671875
+    "width": 231.76953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,33 +201,35 @@
   },
   "active": "6cbd3a7e91469285",
   "lastOpenFiles": [
-    "models/res/Pasted image 20261026123235.png",
-    "docs/Team meetings and updates.md",
+    "docs/zoom/Meeting 2 - AI.md",
+    "docs/zoom/Meeting 3 - AI.md",
+    "docs/zoom/Meeting 1 - AI.md",
+    "docs/Basic challenge info and updates.md",
+    "docs/zoom",
     "docs/PCB Design.md",
-    "docs/Slides - on the go workshop 2.md",
+    "models/Readme.md",
     "README.md",
+    "docs/Team meetings and updates.md",
+    "models/res/Pasted image 20261026123235.png",
+    "docs/Slides - on the go workshop 2.md",
     "res/theme/beamer.css",
     "res/theme",
     "docs/Slides - on the go workshop 2.html",
-    "models/Readme.md",
     "models/solidworks/Readme.md",
     "models/res/Strut Body CAD.png",
     "models/res/Ratchet Knob CAD.png",
     "models/res",
-    "docs/Basic challenge info and updates.md",
     "models/solidworks/Ratchet Knob Spool.SLDPRT",
     "models/solidworks/One Piece Strut Body.SLDPRT",
     "models/solidworks",
     "models/Ratchet Knob Spool.EPRT",
     "models/One Piece Strut Body.EPRT",
-    "models/Ratchet Knob Spool.SLDPRT",
     "Strut Body CAD.png",
     "Ratchet Knob CAD.png",
     "docs/res/Pasted image 20261021135912.png",
     "docs/res/Pasted image 20261020184109.png",
     "docs/res/Pasted image 20261020182541.png",
     "docs/res/Pasted image 20261020182445.png",
-    "docs/res/Pasted image 20261020182350.png",
-    "docs/res/Pasted image 20261020182320.png"
+    "docs/res/Pasted image 20261020182350.png"
   ]
 }
