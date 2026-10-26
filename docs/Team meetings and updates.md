@@ -103,8 +103,13 @@
 ---
 # Agenda - Team meeting 3
 
-## Meeting time Friday 7 - 9 PM
+## Meeting time Friday 6 - 8 PM
 
+- Talked about the new rule update and what we thing about it as a group
+- Agreed to continue the project 
+	- explained the replacement and corners we can cut if the budget is important to us
+	- Current BOM is the reduced BOM
+---
 -  Mostly sharing what we learn from tomorrow's meeting, and if they question the cost or whatever, that would go in there
 - [ ] Get you all setup with Obsidian and git (get you used to that) #Hasith 
 - Programming basics

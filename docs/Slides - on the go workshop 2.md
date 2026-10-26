@@ -1,3 +1,9 @@
+---
+marp: "true"
+paginate: "True"
+footer: Tensegrity | Casuals
+theme: beamer
+---
 
 # SMILE  - Alternate design
 - Rejected due to design timeline constraints
