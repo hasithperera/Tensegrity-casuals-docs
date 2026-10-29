@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zoom/Meeting 1 - AI.md",
+                "file": "docs/Team meetings and updates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meeting 1 - AI"
+              "title": "Team meetings and updates"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.46484375
+    "width": 392.4609375
   },
   "right": {
     "id": "397f74e5d00eb6e5",
@@ -201,17 +201,17 @@
   },
   "active": "6cbd3a7e91469285",
   "lastOpenFiles": [
-    "docs/zoom/Meeting 2 - AI.md",
-    "docs/zoom/Meeting 3 - AI.md",
-    "docs/zoom/Meeting 1 - AI.md",
-    "docs/Basic challenge info and updates.md",
-    "docs/zoom",
     "docs/PCB Design.md",
+    "docs/Team meetings and updates.md",
+    "docs/Slides - on the go workshop 2.md",
+    "docs/Basic challenge info and updates.md",
+    "docs/zoom/Meeting 3 - AI.md",
+    "docs/zoom/Meeting 2 - AI.md",
+    "docs/zoom/Meeting 1 - AI.md",
+    "docs/zoom",
     "models/Readme.md",
     "README.md",
-    "docs/Team meetings and updates.md",
     "models/res/Pasted image 20261026123235.png",
-    "docs/Slides - on the go workshop 2.md",
     "res/theme/beamer.css",
     "res/theme",
     "docs/Slides - on the go workshop 2.html",

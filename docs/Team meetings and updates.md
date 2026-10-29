@@ -122,3 +122,37 @@
 	- [ ] Endcap: can we redesign this to print with the resin printer (for some deformable rubber-like material)
 - [ ] ROS - can someone learn about this and find a tutorial to follow #name
 ---
+## Meeting 4 - 29/10
+
+- [ ] Printing progress
+	- Changes in the PCB holder and PCB cover
+- [ ] Mechanical Assembly all done by 📅 2026-11-05 
+	- It will take more time than you think - took me 3 hs to put that thing together 
+	- leave the electronics for me, you can install the motors, leave the PCB out, wire the battery too
+		- find space-time
+	- make all struts
+	- I encourage every one to participate.
+		- either learn a new skill
+		- or just put time to do some thing you know
+- [ ] Programming 
+	- AI work flow ? I want to try this for this project
+	- so called agents - I don't think it will work too well but who knows maybe it will be faster
+- Item pickup and tracking
+	- [ ] need some one to do this, email Luyang/TA basically to get them, check the items off in, and verify the content with what we ordered - not too hard
+	- [ ] Email to Cath - Justin ? (or talk to her)
+----
+### Next checkin logistics
+- Please take notes, and also take notes on other groups progress
+	- I will try to be on zoom/teams if they do it as a online meeting
+- ask about Luyang's lab access - I emailed nothing back yet
+	- ask what the issue is, and how we can do it
+	- there are possible alternate options (but they said they would provide it so)
+- Show and tell - if you want to show the model, I think its a good to show. (its a pretty solid design and it help me understand the dynamics and also fun to play with etc)
+- Oppose extension of the competition to the next semester
+	- Hasith: Personally joined since it was strictly stated as a 12 Week program, hard no to extension. Unavailable after Dec 10 travel
+		- force then to get a date now
+		- Fall schedule link: https://www.clemson.edu/registrar/academic-resources/calendar.html?year=2027&semester=second-fall
+			- Dec 6 : Last day of classes
+			- Dec 7: Study day
+			- I am fine with doing it on a weekend if needed
+			- Exam week - No due to others probably (I am actually fine with it)
