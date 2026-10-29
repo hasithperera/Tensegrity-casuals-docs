@@ -11,10 +11,14 @@
             "id": "b3e43505d1da7bc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/Team logistics - Project management.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Team logistics - Project management"
             }
           }
         ]
@@ -197,7 +201,7 @@
   },
   "active": "b3e43505d1da7bc2",
   "lastOpenFiles": [
-    "docs/Team meetings and updates.md",
+    "docs/Team logistics - Project management.md",
     "docs/PCB Design.md",
     "docs/Slides - on the go workshop 2.md",
     "docs/Basic challenge info and updates.md",
