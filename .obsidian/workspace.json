@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.76953125
+    "width": 593.03515625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +196,14 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "marp-slides:Show Slide Preview": false
     }
   },
   "active": "b3e43505d1da7bc2",
   "lastOpenFiles": [
+    "docs/res/Pasted image 20261029203758.png",
+    "docs/Team logistics - Project management.html",
     "docs/Team logistics - Project management.md",
     "docs/PCB Design.md",
     "docs/Slides - on the go workshop 2.md",
@@ -223,7 +226,6 @@
     "models/solidworks/One Piece Strut Body.SLDPRT",
     "models/solidworks",
     "models/Ratchet Knob Spool.EPRT",
-    "models/One Piece Strut Body.EPRT",
     "Strut Body CAD.png",
     "Ratchet Knob CAD.png",
     "docs/res/Pasted image 20261021135912.png",

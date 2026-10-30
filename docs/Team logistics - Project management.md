@@ -124,9 +124,15 @@
 ---
 ## Meeting 4 - 29/10
 
-- [ ] Printing progress
+- [ ] Printing progress #Justin 
 	- Changes in the PCB holder and PCB cover
-- [ ] Mechanical Assembly all done by 📅 2026-11-05 
+	- Justin
+		- 3 done already. 
+		- Needs the bottom PCB holder reprint
+	- [ ] TPU endcaps #David 
+		- Ask Luyang 
+- [ ] Mechanical Assembly all done by 📅 2026-11-05 #David #Jaylin #Justin 
+	- [ ] fishing line and knots #David 
 	- It will take more time than you think - took me 3 hs to put that thing together 
 	- leave the electronics for me, you can install the motors, leave the PCB out, wire the battery too
 		- find space-time
@@ -134,12 +140,16 @@
 	- I encourage every one to participate.
 		- either learn a new skill
 		- or just put time to do some thing you know
+---
+
 - [ ] Programming 
 	- AI work flow ? I want to try this for this project
 	- so called agents - I don't think it will work too well but who knows maybe it will be faster
-- Item pickup and tracking
-	- [ ] need some one to do this, email Luyang/TA basically to get them, check the items off in, and verify the content with what we ordered - not too hard
-	- [ ] Email to Cath - Justin ? (or talk to her)
+- [ ]  Item pickup and tracking
+	- [x] need some one to do this, email Luyang/TA basically to get them, check the items off in, and verify the content with what we ordered - not too hard ✅ 2026-10-29
+	- [ ] Email to Cath - Justin ? (or talk to her) #Justin 
+- [ ] Start thinking about the report
+	- put down a doc
 ----
 ### Next checkin logistics
 - Please take notes, and also take notes on other groups progress
@@ -148,6 +158,12 @@
 	- ask what the issue is, and how we can do it
 	- there are possible alternate options (but they said they would provide it so)
 - Show and tell - if you want to show the model, I think its a good to show. (its a pretty solid design and it help me understand the dynamics and also fun to play with etc)
+
+---
+![](res/Pasted%20image%2020261029203758.png)
+
+---
+
 - Oppose extension of the competition to the next semester
 	- Hasith: Personally joined since it was strictly stated as a 12 Week program, hard no to extension. Unavailable after Dec 10 travel
 		- force then to get a date now
@@ -156,3 +172,4 @@
 			- Dec 7: Study day
 			- I am fine with doing it on a weekend if needed
 			- Exam week - No due to others probably (I am actually fine with it)
+---
