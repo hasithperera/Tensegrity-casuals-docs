@@ -2,10 +2,10 @@
 marp: "true"
 paginate: "True"
 footer: Tensegrity | Casuals
-theme: beamer
+theme: neobeam-neonbeam
 ---
  # Workshop 2: Slides on the go !
-Team Casuals
+Team Casuals | Tensegrity
 Hasith Perera, Justin Hsu, David Niemczura, and Jaylin Washington
 <!-- _class: title -->
 
@@ -17,7 +17,9 @@ Hasith Perera, Justin Hsu, David Niemczura, and Jaylin Washington
 ![bg right contain](res/Pasted%20image%2020261014231026.png)
 
 ---
-## Yale Desing
+
+
+<!-- _header: "Yale PCB constraints Desing" -->
 
 ![bg right contain](res/Pasted%20image%2020261009191118.png)
 
@@ -29,22 +31,29 @@ Hasith Perera, Justin Hsu, David Niemczura, and Jaylin Washington
 ![bg contain](res/Pasted%20image%2020261020184109.png)
 
 ---
-![bg contain](res/Pasted%20image%2020261020182220.png)
+<!-- _header: "Our modifications" -->
+
+![bg right contain](res/Pasted%20image%2020261020182220.png)
+
+## Removed:
+- Force feedback and all capacitive sensors
+- MOSFET's designed for the electro magnets
 
 ---
-![](res/Pasted%20image%2020261020182246.png)
+![bg contain](res/Pasted%20image%2020261020182246.png)
 
 ---
-![](res/Pasted%20image%2020261020182541.png)
+![bg contain](res/Pasted%20image%2020261020182541.png)
 
 ---
-# Initial proposed time line
+<!-- _header: " Initial proposed time line" -->
+
 ![bg contain](res/Pasted%20image%2020261020182445.png)
 
 ---
 
  # Workshop 3: Update
-Team Casuals
+Team Casuals | Tensegrity
 Hasith Perera, Justin Hsu, David Niemczura, and Jaylin Washington
 <!-- _class: title -->
 
@@ -66,7 +75,7 @@ Hasith Perera, Justin Hsu, David Niemczura, and Jaylin Washington
 ![bg contain right ](res/Pasted%20image%2020261103131302.png)
 
 ---
-# Current issues we are thinking about
+# Current issues we are thinking about - Controls (Hasith)
 
 - The controller Yale design is using is a **Nano 33 IoT**
 	- This is a single core 
