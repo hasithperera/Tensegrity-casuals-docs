@@ -1,7 +1,7 @@
 ---
 marp: "true"
 paginate: "True"
-footer: Tensegrity | Casuals
+footer: "**Tensegrity** **Clemson University**  **Casuals**"
 theme: neobeam-neonbeam
 ---
  # Workshop 2: Slides on the go !
@@ -85,3 +85,8 @@ Hasith Perera, Justin Hsu, David Niemczura, and Jaylin Washington
 		- Would putting 4 encoder signals break the speed required for UDP data
 	- Should we upgrade to a dual core processor 
 		- can be done
+---
+ # Workshop 4: Update
+Team Casuals | Tensegrity
+Hasith Perera, Justin Hsu, David Niemczura, and Jaylin Washington
+<!-- _class: title -->

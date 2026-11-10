@@ -22,6 +22,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "afe696ba5360ea4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b94d0bcf7ee2b712",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Deck Preview"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,7 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 310.328125
   },
   "right": {
     "id": "397f74e5d00eb6e5",
@@ -200,8 +216,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "d531fcc783a9b96e",
+  "active": "b94d0bcf7ee2b712",
   "lastOpenFiles": [
+    "res/theme/neobeam-ahe.css~",
     "res/theme/neobeam-ahe.css",
     "docs/Slides - on the go workshop 2.pdf",
     "res/theme/neobeam.css",
@@ -228,7 +245,6 @@
     "models/res/Strut Body CAD.png",
     "models/res/Ratchet Knob CAD.png",
     "models/res",
-    "models/solidworks/Ratchet Knob Spool.SLDPRT",
     "Strut Body CAD.png",
     "Ratchet Knob CAD.png",
     "docs/res/Pasted image 20261021135912.png",
