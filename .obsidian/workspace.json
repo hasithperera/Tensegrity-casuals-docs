@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Slides - on the go workshop 2.md",
+                "file": "docs/Programming and electronics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slides - on the go workshop 2"
-            }
-          }
-        ]
-      },
-      {
-        "id": "afe696ba5360ea4f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b94d0bcf7ee2b712",
-            "type": "leaf",
-            "state": {
-              "type": "marp-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Deck Preview"
+              "title": "Programming and electronics"
             }
           }
         ]
@@ -216,18 +200,19 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "b94d0bcf7ee2b712",
+  "active": "b3e43505d1da7bc2",
   "lastOpenFiles": [
+    "docs/Slides - on the go workshop 2.pdf",
+    "docs/Programming and electronics.md",
+    "docs/Slides - on the go workshop 2.md",
+    "docs/Team logistics - Project management.md",
     "res/theme/neobeam-ahe.css~",
     "res/theme/neobeam-ahe.css",
-    "docs/Slides - on the go workshop 2.pdf",
     "res/theme/neobeam.css",
-    "docs/Slides - on the go workshop 2.md",
     "docs/res/Pasted image 20261103131302.png",
     "docs/res/Pasted image 20261103130828.png",
     "README.md",
     "models/Tensegrety-casuals-v1.step",
-    "docs/Team logistics - Project management.md",
     "docs/res/Pasted image 20261029203758.png",
     "docs/Team logistics - Project management.html",
     "docs/PCB Design.md",
@@ -244,7 +229,6 @@
     "models/solidworks/Readme.md",
     "models/res/Strut Body CAD.png",
     "models/res/Ratchet Knob CAD.png",
-    "models/res",
     "Strut Body CAD.png",
     "Ratchet Knob CAD.png",
     "docs/res/Pasted image 20261021135912.png",
