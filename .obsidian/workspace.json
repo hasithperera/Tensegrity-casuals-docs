@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Programming and electronics.md",
+                "file": "docs/Mechanical design and notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Programming and electronics"
+              "title": "Mechanical design and notes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d32fc03bf9dad4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f3c38e043cffd1d",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Deck Preview"
             }
           }
         ]
@@ -202,11 +218,13 @@
   },
   "active": "b3e43505d1da7bc2",
   "lastOpenFiles": [
-    "docs/Slides - on the go workshop 2.md",
+    "docs/res/Pasted image 20261112125232.png",
     "docs/Programming and electronics.md",
+    "docs/Team logistics - Project management.md",
+    "docs/Mechanical design and notes.md",
+    "docs/Slides - on the go workshop 2.md",
     "docs/res/Pasted image 20261112094225.png",
     "docs/res/Pasted image 20261112094131.png",
-    "docs/Team logistics - Project management.md",
     "res/theme/neobeam-ahe.css~",
     "res/theme/neobeam-ahe.css",
     "docs/Slides - on the go workshop 2.pdf",
