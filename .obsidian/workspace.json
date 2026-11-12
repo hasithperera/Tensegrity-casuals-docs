@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515.62890625
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,12 +202,14 @@
   },
   "active": "b3e43505d1da7bc2",
   "lastOpenFiles": [
-    "docs/Slides - on the go workshop 2.pdf",
-    "docs/Programming and electronics.md",
     "docs/Slides - on the go workshop 2.md",
+    "docs/Programming and electronics.md",
+    "docs/res/Pasted image 20261112094225.png",
+    "docs/res/Pasted image 20261112094131.png",
     "docs/Team logistics - Project management.md",
     "res/theme/neobeam-ahe.css~",
     "res/theme/neobeam-ahe.css",
+    "docs/Slides - on the go workshop 2.pdf",
     "res/theme/neobeam.css",
     "docs/res/Pasted image 20261103131302.png",
     "docs/res/Pasted image 20261103130828.png",
@@ -230,8 +232,6 @@
     "models/res/Strut Body CAD.png",
     "models/res/Ratchet Knob CAD.png",
     "Strut Body CAD.png",
-    "Ratchet Knob CAD.png",
-    "docs/res/Pasted image 20261021135912.png",
-    "docs/res/Pasted image 20261020184109.png"
+    "Ratchet Knob CAD.png"
   ]
 }

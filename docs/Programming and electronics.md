@@ -4,7 +4,11 @@ paginate: "True"
 footer: "**Tensegrity** **Clemson University**  **Casuals**"
 theme: neobeam-neonbeam
 ---
+ # Electronics and Program design progress
+Team Casuals |  Hasith Perera
+<!-- _class: title -->
 
+---
 ## 10-Nov 
 
 - Populated a single PCB with the Nano and the motor controller
@@ -14,7 +18,7 @@ theme: neobeam-neonbeam
 - Checked PCB for any stray voltages 
 ---
 
-## 11 Nov
+## 11-Nov
 
 - Tested the remaining nano 33 IoT boards with USB power, and they both show 3.3v on the out put pin and are not heating up (Tested fresh out the box)
 - Unit 1:
@@ -22,4 +26,27 @@ theme: neobeam-neonbeam
 	- blink running 
 	- 3v3 pin measured: 3.03 V 1629 h
 	- Keep it plug in for 15 mins and monitor temp
-	- 
+---
+![bg contain](res/Pasted%20image%2020261112094131.png)
+
+---
+![bg contain](res/Pasted%20image%2020261112094225.png)
+
+---
+## 12 - Nov
+
+
+
+
+
+
+---
+### Programming todo
+
+- [x] Motor drive test ✅ 2026-11-11
+	- [x] Motor A - Strut 1 ✅ 2026-11-11
+- [x] Encorder testing ✅ 2026-11-11
+- [ ] Wifi 
+	- [ ] Basic network
+	- [ ] UDP testing - async responce
+	- [x] Set up my wifi extender as the network interface ✅ 2026-11-12

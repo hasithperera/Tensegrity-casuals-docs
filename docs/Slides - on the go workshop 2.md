@@ -43,7 +43,9 @@ Hasith Perera, Justin Hsu, David Niemczura, and Jaylin Washington
 ![bg contain](res/Pasted%20image%2020261020182246.png)
 
 ---
+
 ![bg contain](res/Pasted%20image%2020261020182541.png)
+
 
 ---
 <!-- _header: " Initial proposed time line" -->
@@ -90,3 +92,5 @@ Hasith Perera, Justin Hsu, David Niemczura, and Jaylin Washington
 Team Casuals | Tensegrity
 Hasith Perera, Justin Hsu, David Niemczura, and Jaylin Washington
 <!-- _class: title -->
+
+---
