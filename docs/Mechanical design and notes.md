@@ -23,6 +23,14 @@ theme: neobeam-neonbeam
 ![center](res/Pasted%20image%2020261112125232.png)
 
 ---
+## Modification
+- David's design was off, dimensions were not correct. Hasith redid it for quick verification
+- Need to print and test for clearance, Design shown below
+
+![](res/Pasted%20image%2020261113000306.png)
+
+---
+
 ## Todo
 - [ ] Redesign Motor holder #David 
 	- [ ] Print PLA test design by 📅 2026-11-13  #Hasith 
