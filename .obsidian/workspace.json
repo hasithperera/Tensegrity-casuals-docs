@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "805f980a87dd87fc",
+        "id": "d16e27b30c9f60bb",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e43505d1da7bc2",
+            "id": "d5c7e66be115bbea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Mechanical design and notes.md",
+                "file": "docs/Programming and electronics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanical design and notes"
+              "title": "Programming and electronics"
             }
           }
         ]
       },
       {
-        "id": "5d32fc03bf9dad4b",
+        "id": "4f1d85770b6e56ce",
         "type": "tabs",
         "children": [
           {
-            "id": "3f3c38e043cffd1d",
+            "id": "f83acef90a7967dc",
             "type": "leaf",
             "state": {
               "type": "marp-preview-view",
@@ -216,13 +216,16 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "b3e43505d1da7bc2",
+  "active": "f83acef90a7967dc",
   "lastOpenFiles": [
-    "docs/res/Pasted image 20261112125232.png",
     "docs/Programming and electronics.md",
-    "docs/Team logistics - Project management.md",
-    "docs/Mechanical design and notes.md",
     "docs/Slides - on the go workshop 2.md",
+    "docs/PCB Design.md",
+    "docs/res/Pasted image 20261112194118.png",
+    "docs/Mechanical design and notes.md",
+    "docs/Basic challenge info and updates.md",
+    "docs/res/Pasted image 20261112125232.png",
+    "docs/Team logistics - Project management.md",
     "docs/res/Pasted image 20261112094225.png",
     "docs/res/Pasted image 20261112094131.png",
     "res/theme/neobeam-ahe.css~",
@@ -235,8 +238,6 @@
     "models/Tensegrety-casuals-v1.step",
     "docs/res/Pasted image 20261029203758.png",
     "docs/Team logistics - Project management.html",
-    "docs/PCB Design.md",
-    "docs/Basic challenge info and updates.md",
     "docs/zoom/Meeting 3 - AI.md",
     "docs/zoom/Meeting 2 - AI.md",
     "docs/zoom/Meeting 1 - AI.md",
@@ -248,8 +249,6 @@
     "docs/Slides - on the go workshop 2.html",
     "models/solidworks/Readme.md",
     "models/res/Strut Body CAD.png",
-    "models/res/Ratchet Knob CAD.png",
-    "Strut Body CAD.png",
-    "Ratchet Knob CAD.png"
+    "models/res/Ratchet Knob CAD.png"
   ]
 }

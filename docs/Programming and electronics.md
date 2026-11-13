@@ -35,13 +35,35 @@ Team Casuals |  Hasith Perera
 ---
 ## 12 - Nov
 
-
-
-
-
-
+- Basic wifi config
+	- there is a WifiNINA firmware missmatch 
+	- but it connected to the open wifi network and the ips are shown without an issue
+	![](res/Pasted%20image%2020261112194118.png)
+	- [ ] update the firmware if UDP is not working 🔽 
+- [x] UDP basic controllers and python commanding ✅ 2026-11-12
 ---
-### Programming todo
+- [ ] Find a table clamp/borrow from a lab to mount it to my table
+	- get a second wifi interface for my laptop to be able to use both networks
+- Motor count limits
+	- 13500 counts is the max counts the string on S1A is capable of moving
+	- implemented a hard-coded stop at 12500 counts at max speed (255)
+		- momentum keeps its moving more I think 
+	- PID implementation needs to be done
+---
+## Basic packet structure
+
+ - xxyyzzpqrs
+	 - xx,yy,zz - strut 1/2/3 lengths
+- Need to implement a test packet
+	- xxyyzzpqrs
+		- Check s:  `if packet[10]=='T'` 
+		- go to alternate packet spec
+			- xxy: speed
+			- y = ','
+			- z = strut (1/2/3)
+			- z = motor id (0/1)
+---
+### Programming todo`
 
 - [x] Motor drive test ✅ 2026-11-11
 	- [x] Motor A - Strut 1 ✅ 2026-11-11
