@@ -33,20 +33,67 @@ Team Casuals |  Hasith Perera
 ![bg contain](res/Pasted%20image%2020261112094225.png)
 
 ---
-## 12 - Nov
+## 13-Nov
 
-
-
-
-
+| exp_id | kp   | kd   | ki  | Notes                              |     |
+| ------ | ---- | ---- | --- | ---------------------------------- | --- |
+| 3      | 0.45 | 0.02 | 0   |                                    |     |
+| 4      | 0.6  |      |     |                                    |     |
+| 5      | 0.8  | 0.02 |     |                                    |     |
+| 6      | 0.8  | .1   |     |                                    |     |
+| 7      | 1.5  | .1   |     |                                    |     |
+| 8      | 1.1  | .1   | .2  |                                    |     |
+| 9      | .9   | .02  | 0   |                                    |     |
+| 10     | 0.6  | 0.02 |     | repeate exp r>f                    |     |
+| 11     |      |      |     | same as 10, no delay               |     |
+| 12,13  |      |      |     | same as exp 11; repeatability test |     |
+| 14,15  |      |      |     | dropped threshold to 10            |     |
+| 16,17  | .8   |      |     |                                    |     |
+| 18     |      |      |     | wifi firmware updated              |     |
 
 ---
-### Programming todo
+## PID tuning experiments
+
+![bg right contain](res/Pasted%20image%2020261114120815.png)
+
+- PID tuning was done using sent out to UDP
+- It was noted that data was intermittent
+- WifiNINA firmware was updated to see if this was a stability issue - no change after update
+- **Sub 2 second move is the goal**
+- <mark> Alternate option is serial/MQTT data transport </mark>
+
+---
+## PID serial data
+
+![bg right contain](res/Pasted%20image%2020261114131842.png)
+
+- Data manually saved from the serial monitor
+- No time reference; during wired testing, this is fine
+- Chose the Green line, this is not the fastest but it has the least error
+---
 
 - [x] Motor drive test ✅ 2026-11-11
 	- [x] Motor A - Strut 1 ✅ 2026-11-11
 - [x] Encorder testing ✅ 2026-11-11
-- [ ] Wifi 
-	- [ ] Basic network
-	- [ ] UDP testing - async responce
+- [x] Wifi ✅ 2026-11-14
+	- [x] Basic network ✅ 2026-11-14
+	- [x] UDP testing - async responce ✅ 2026-11-14
 	- [x] Set up my wifi extender as the network interface ✅ 2026-11-12
+- [ ] PID controller
+	- [x] Tuning and engineering plots to show the tuning ✅ 2026-11-14
+	- [x] UDP data send ✅ 2026-11-14
+		- This has some stability issues; may be due to its UDP and dropped traffic
+	- [ ] MQTT test for high-speed data output 
+		- Need to find a way to run an MQTT server on Mac
+		- Dockers
+	- [ ] Test both motors
+	- [ ] Implement motor state using global status array
+- [ ] Controller interface
+	- [x] Basic length set packet ✅ 2026-11-14
+	- [ ] Data request packets
+		- [ ] Init packet `I`
+			- `aaaasbbbbI`
+			- contains a 4 digit count for each motor 
+			- strut id as seperator
+		- [ ] Robot handshake 
+---

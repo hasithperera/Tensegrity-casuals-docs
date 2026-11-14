@@ -1,7 +1,7 @@
 {
   "CHROME_PATH": "",
   "ThemePath": "res/theme/",
-  "EnableHTML": false,
+  "EnableHTML": true,
   "MathTypesettings": "mathjax",
   "HTMLExportMode": "bare",
   "EXPORT_PATH": "",

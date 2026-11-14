@@ -27,5 +27,4 @@ theme: neobeam-neonbeam
 - [ ] Redesign Motor holder #David 
 	- [ ] Print PLA test design by 📅 2026-11-13  #Hasith 
 - [ ] Figure out the PCB mounting
-- [ ] eEd cap has issues;either redesign or use glue etc
-- [ ] 
+- [ ] end cap has issues; either redesign or use glue etc
