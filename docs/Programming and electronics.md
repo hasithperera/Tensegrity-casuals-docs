@@ -79,6 +79,7 @@ Team Casuals |  Hasith Perera
 	- [x] Basic network ✅ 2026-11-14
 	- [x] UDP testing - async responce ✅ 2026-11-14
 	- [x] Set up my wifi extender as the network interface ✅ 2026-11-12
+---
 - [ ] PID controller
 	- [x] Tuning and engineering plots to show the tuning ✅ 2026-11-14
 	- [x] UDP data send ✅ 2026-11-14
@@ -89,15 +90,43 @@ Team Casuals |  Hasith Perera
 			- [ ] fix firewall issue 
 	- [ ] Test both motors
 	- [ ] Implement motor state using global status array
+---
 - [ ] Controller interface
 	- [x] Basic length set packet ✅ 2026-11-14
 	- [ ] Data request packets
-		- [ ] Init packet `I`
+		-  `xxxxSxxxxA`: Packet spec
+			- S: strut id
+			- A: acceleration data
+	- [ ] Drop mode
+		- `xxxxxxxxxD`: packet spec
+			- D: Drop mode
+		- Drop loop
+			- Detect acceleration vector
+				- Export data to MQTT
+				- detect drop
+			- Increase tension for all motors
+				- Use current sensor as feedback to limit power draw
+				- Export data to MQTT
+	- [ ] Init packet `I`
 			- `aaaasbbbbI`
-			- contains a 4 digit count for each motor 
-			- strut id as seperator
-		- [ ] Robot handshake 
+			- contains a 4-digit count for each motor 
+			- strut id as separator
+	- [ ] Robot handshake
 ---
+# Internal Gyro
+
+![bg left contain](res/Pasted%20image%2020261114143746.png)
+
+- These are the directions
+---
+# Gyro todo
+
+- [ ] Basic data read
+- [ ] Avg and data send 
+- [ ] Data request packet
+	- [ ] 
+
+----
 # Tangent - Docker install on Mac
 
 - https://docs.docker.com/desktop/setup/install/mac-install/
