@@ -11,10 +11,30 @@
             "id": "ba4b40f560dfddfc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "docs/Programming and electronics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programming and electronics"
+            }
+          }
+        ]
+      },
+      {
+        "id": "51db7fa71a9ceced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a366ceee3442bcbe",
+            "type": "leaf",
+            "state": {
+              "type": "marp-preview-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Deck Preview"
             }
           }
         ]
@@ -196,8 +216,9 @@
       "marp-slides:Show Slide Preview": false
     }
   },
-  "active": "d531fcc783a9b96e",
+  "active": "a366ceee3442bcbe",
   "lastOpenFiles": [
+    "docs/Programming and electronics.md",
     "docs/res/Pasted image 20261113000306.png",
     "docs/res/Pasted image 20261112194118.png",
     "docs/res/Pasted image 20261114131842.png",
@@ -205,7 +226,6 @@
     "docs/Programming and electronics.html",
     "docs/res/Pasted image 20261114120815.png",
     "docs/Mechanical design and notes.md",
-    "docs/Programming and electronics.md",
     "docs/res/Pasted image 20261112125232.png",
     "docs/Team logistics - Project management.md",
     "docs/Slides - on the go workshop 2.md",
@@ -219,7 +239,6 @@
     "docs/res/Pasted image 20261103130828.png",
     "README.md",
     "models/Tensegrety-casuals-v1.step",
-    "docs/res/Pasted image 20261029203758.png",
     "docs/Team logistics - Project management.html",
     "docs/PCB Design.md",
     "docs/Basic challenge info and updates.md",

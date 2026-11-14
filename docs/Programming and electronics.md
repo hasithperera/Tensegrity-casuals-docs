@@ -84,8 +84,9 @@ Team Casuals |  Hasith Perera
 	- [x] UDP data send ✅ 2026-11-14
 		- This has some stability issues; may be due to its UDP and dropped traffic
 	- [ ] MQTT test for high-speed data output 
-		- Need to find a way to run an MQTT server on Mac
-		- Dockers
+		- [x] Need to find a way to run an MQTT server on Mac ✅ 2026-11-14
+			- Dockers
+			- [ ] fix firewall issue 
 	- [ ] Test both motors
 	- [ ] Implement motor state using global status array
 - [ ] Controller interface
@@ -96,4 +97,15 @@ Team Casuals |  Hasith Perera
 			- contains a 4 digit count for each motor 
 			- strut id as seperator
 		- [ ] Robot handshake 
+---
+# Tangent - Docker install on Mac
+
+- https://docs.docker.com/desktop/setup/install/mac-install/
+- Followed the tutorial here
+- **Docker** is running fine:
+	- I can connect to it locally using my Mac
+	- but my firewall rules are not allowing in coming connections
+		- Talk to IT to add an exception to 1883
+- Pending
+	- Run it on a Pi or use my linux PC to test it
 ---
